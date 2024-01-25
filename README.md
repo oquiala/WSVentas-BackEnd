@@ -1,2 +1,3 @@
 # WSVentas-BackEnd
-BackEnd .Net WebApi Sistema de Ventas
+BackEnd | .Net | WebApi | 
+Ejemplo sencillo de un Sistema de Ventas con autenticación
