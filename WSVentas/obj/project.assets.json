@@ -3076,11 +3076,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\reposExamples\\WSVentas\\WSVentas\\WSVentas.csproj",
+      "projectUniqueName": "D:\\reposExamples\\WSVentas\\WSVentas-BK\\WSVentas\\WSVentas.csproj",
       "projectName": "WSVentas",
-      "projectPath": "D:\\reposExamples\\WSVentas\\WSVentas\\WSVentas.csproj",
+      "projectPath": "D:\\reposExamples\\WSVentas\\WSVentas-BK\\WSVentas\\WSVentas.csproj",
       "packagesPath": "C:\\Users\\oquiala\\.nuget\\packages\\",
-      "outputPath": "D:\\reposExamples\\WSVentas\\WSVentas\\obj\\",
+      "outputPath": "D:\\reposExamples\\WSVentas\\WSVentas-BK\\WSVentas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",

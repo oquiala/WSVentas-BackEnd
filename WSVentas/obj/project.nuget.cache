@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hn1/OvgeG6h21A3rFQLhHoPIdPm6PmUqW8XD/68ACTKpTZmfpa09CXotJ4FL3kDZdKIK+Oe4TVjnIYRctjICrQ==",
+  "dgSpecHash": "wyNaANYo4Ca5tb7jqoOPxyjz4Umpbp52YYfyfkGXaBv4r8NaQ0FFgIrLMPi+6YC3q+5ZUtkdkB2NP8OYajGWRQ==",
   "success": true,
-  "projectFilePath": "D:\\reposExamples\\WSVentas\\WSVentas\\WSVentas.csproj",
+  "projectFilePath": "D:\\reposExamples\\WSVentas\\WSVentas-BK\\WSVentas\\WSVentas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oquiala\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\oquiala\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
