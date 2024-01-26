@@ -1,2 +1,2 @@
-# WSVentas-BackEnd
-BackEnd | .Net | WebApi | Sistema de Ventas
+# WSVentas-BackEnd - Sistema de Ventas
+BackEnd | .Net | WebApi | Entity Framework 
